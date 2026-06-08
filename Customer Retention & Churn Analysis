@@ -1,0 +1,96 @@
+Customer Retention & Churn Analysis Dashboard
+Project Overview
+
+This project focuses on analyzing customer retention and churn behavior using the Telco Customer Churn dataset. The objective is to identify the factors influencing customer churn, understand customer lifetime patterns, and recommend strategies that can improve customer retention and business growth.
+
+Business Problem
+
+Customer churn directly affects revenue, profitability, and long-term growth for subscription-based businesses. Understanding why customers leave and identifying at-risk customer segments enables organizations to implement effective retention strategies.
+
+Objectives
+Analyze customer churn patterns.
+Identify customer segments with high churn risk.
+Understand customer lifetime and tenure behavior.
+Discover key drivers influencing churn.
+Provide actionable recommendations to improve retention.
+Dataset
+
+Dataset: Telco Customer Churn Dataset
+
+The dataset contains customer demographic information, subscription details, service usage, billing information, and churn status.
+
+Tools & Technologies
+Power BI
+Power Query
+DAX
+Excel
+Dashboard Structure
+1. Customer Overview
+
+Key KPIs:
+
+Total Customers
+Active Customers
+Churned Customers
+Churn Rate
+
+Visualizations:
+
+Customer Status Distribution
+Churn by Gender
+Churn by Senior Citizen
+Churn by Partner Status
+Churn by Dependents
+2. Churn Driver Analysis
+
+Visualizations:
+
+Churn by Contract Type
+Churn by Internet Service
+Churn by Payment Method
+Churn by Online Security
+Churn by Tech Support
+Churn by Paperless Billing
+
+Purpose:
+
+Identify the primary factors contributing to customer churn.
+3. Retention & Customer Lifetime Analysis
+
+Visualizations:
+
+Tenure Distribution
+Churn by Tenure Group
+Customer Lifetime Value Analysis
+Monthly Charges vs Churn
+Retention by Contract Type
+
+Purpose:
+
+Understand customer lifetime behavior and retention opportunities.
+
+Key Findings
+Overall Churn Rate: 26.54%
+Month-to-Month contracts showed the highest churn rate (42.71%).
+Fiber Optic customers had significantly higher churn rates than DSL customers.
+Electronic Check users demonstrated the highest churn among payment methods.
+Customers without Online Security and Tech Support were more likely to churn.
+Most customer churn occurred within the first 12 months.
+Long-tenure customers generated the highest customer lifetime value.
+
+Recommendations
+Promote annual and multi-year subscription plans.
+Improve customer onboarding during the first year.
+Bundle value-added services such as Online Security and Tech Support.
+Encourage automated payment methods.
+Develop retention campaigns targeting high-risk customers.
+
+Skills Demonstrated
+Customer Retention Analysis
+Churn Analytics
+Customer Lifetime Value Analysis
+Data Visualization
+Business Intelligence Reporting
+DAX Measures & Calculations
+KPI Development
+Data-Driven Decision Making
